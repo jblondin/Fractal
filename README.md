@@ -23,9 +23,9 @@ fspecstr="0x08e961 0xe08e96 0xbc11d2 (0.00709466,-0.664701) zoom9.23647e-06 pow0
 filename="output.png"
 ```
 For example, this specification string will regenerate the image in
-(this tweet)[https://twitter.com/fractweet/status/805351411680772096].
+[this tweet](https://twitter.com/fractweet/status/805351411680772096).
 
-Then run with 'julia -p <num CPUs> run_sample_fractal.jl' in the 'src' directory.
+Then run with `julia -p <num CPUs> run_sample_fractal.jl` in the 'src' directory.
 
 There's also some code in here to generate buddhabrots / nebulabrots, but it doesn't fully work.
 
